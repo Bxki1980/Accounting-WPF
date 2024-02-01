@@ -1,0 +1,12 @@
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll.config
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+D:\c# projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\c# projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+D:\c# projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\c# projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+D:\c# projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\c# projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

@@ -1,0 +1,13 @@
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\Accounting_DataLayer.dll
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\EntityFramework.dll
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\Accounting_DataLayer.pdb
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\Accounting_DataLayer.dll.config
+D:\c# projects\Accounting\ConsoleApp3\bin\Debug\EntityFramework.xml
+D:\c# projects\Accounting\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\c# projects\Accounting\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\c# projects\Accounting\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+D:\c# projects\Accounting\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\c# projects\Accounting\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

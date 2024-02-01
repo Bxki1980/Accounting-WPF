@@ -1,0 +1,15 @@
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\Accounting_DataLayer.dll
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\EntityFramework.dll
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\Accounting_DataLayer.pdb
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\Accounting_DataLayer.dll.config
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\EntityFramework.xml
+D:\c# projects\Accounting\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\c# projects\Accounting\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\c# projects\Accounting\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+D:\c# projects\Accounting\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\c# projects\Accounting\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# projects\Accounting\ConsoleApp4\bin\Debug\EntityFramework.SqlServer.xml
